@@ -1,0 +1,40 @@
+.result-container {
+    width: 50%;
+    padding: 1rem;
+    color: var(--white);
+}
+
+.result-controll {
+    background-color: var(--very-dark-cyan);
+    padding: 2rem;
+    border-radius: 0.5rem;
+}
+
+.results {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.result {
+    font-size: 3rem;
+}
+
+#reset-btn {
+    margin-top: 4rem;
+    width: 100%;
+    background-color: var(--strong-cyan);
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.2rem;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+@media screen and (max-width: 950px) {
+    .result-container {
+        width: 95%;
+    }
+    
+}
