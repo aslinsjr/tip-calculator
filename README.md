@@ -19,7 +19,7 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 
 ### Screenshot
 
-![](./public/FireShot%20Capture%20034%20-%20Tip%20Calculator%20-%20localhost.pngS)
+![](public\FireShot Capture 034 - Tip Calculator - localhost.png)
 
 ### Links
 
