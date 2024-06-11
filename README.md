@@ -23,8 +23,8 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 
 ### Links
 
-- Solution URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/aslinsjr/tip-calculator)
+- Live Site URL: [GitHub Page](https://tip-calculator-phi-lyart.vercel.app/)
 
 ## My process
 
